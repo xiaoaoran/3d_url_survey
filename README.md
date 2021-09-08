@@ -20,3 +20,4 @@
 - El Banani, Mohamed, Luya Gao, and Justin Johnson. "Unsupervisedr&r: Unsupervised point cloud registration via differentiable rendering." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2021.
 
 ## Precontext Methods
+- Sun, Chao, Zhedong Zheng, and Yi Yang. "Point Cloud Pre-training by Mixing and Disentangling." arXiv preprint arXiv:2109.00452 (2021). [mix and disentangle]
