@@ -19,5 +19,7 @@
 - Xie, Saining, et al. "Pointcontrast: Unsupervised pre-training for 3d point cloud understanding." European Conference on Computer Vision. Springer, Cham, 2020.
 - El Banani, Mohamed, Luya Gao, and Justin Johnson. "Unsupervisedr&r: Unsupervised point cloud registration via differentiable rendering." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2021.
 
-## Precontext Methods
+## Precontext Methods (好像也是generative)
+- Sauder J, Sievers B. Self-supervised deep learning on point clouds by reconstructing space[J]. arXiv preprint arXiv:1901.08396, 2019. [randomly rearranged and reconstruct]
 - Sun, Chao, Zhedong Zheng, and Yi Yang. "Point Cloud Pre-training by Mixing and Disentangling." arXiv preprint arXiv:2109.00452 (2021). [mix and disentangle]
+- 
