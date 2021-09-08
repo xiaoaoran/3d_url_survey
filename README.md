@@ -23,3 +23,6 @@
 - Sauder J, Sievers B. Self-supervised deep learning on point clouds by reconstructing space[J]. arXiv preprint arXiv:1901.08396, 2019. [randomly rearranged and reconstruct]
 - Sun, Chao, Zhedong Zheng, and Yi Yang. "Point Cloud Pre-training by Mixing and Disentangling." arXiv preprint arXiv:2109.00452 (2021). [mix and disentangle]
 - 
+
+# Waiting list
+- Zhang Z, Girdhar R, Joulin A, et al. Self-supervised pretraining of 3d features on any point-cloud[J]. arXiv preprint arXiv:2101.02691, 2021.
