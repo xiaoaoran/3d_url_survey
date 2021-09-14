@@ -13,6 +13,7 @@
 - Yang, Yaoqing, et al. "Foldingnet: Point cloud auto-encoder via deep grid deformation." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018.
 - Li J, Chen B M, Lee G H. So-net: Self-organizing network for point cloud analysis[C]//Proceedings of the IEEE conference on computer vision and pattern recognition. 2018: 9397-9406.
 - Gadelha M, Wang R, Maji S. Multiresolution tree networks for 3d point cloud processing[C]//Proceedings of the European Conference on Computer Vision (ECCV). 2018: 103-118.
+- Yang G, Huang X, Hao Z, et al. Pointflow: 3d point cloud generation with continuous normalizing flows[C]//Proceedings of the IEEE/CVF International Conference on Computer Vision. 2019: 4541-4550.
 - Han Z, Shang M, Liu Y S, et al. View Inter-Prediction GAN: Unsupervised representation learning for 3D shapes by learning global shape memories to support local view predictions[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2019, 33(01): 8376-8384.
 - Sauder J, Sievers B. Self-supervised deep learning on point clouds by reconstructing space[J]. arXiv preprint arXiv:1901.08396, 2019. (Jigsaw3D)
 - Rao, Yongming, Jiwen Lu, and Jie Zhou. "Global-local bidirectional reasoning for unsupervised representation learning of 3d point clouds." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020.
