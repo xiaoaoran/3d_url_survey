@@ -10,10 +10,11 @@
 - Wu, Jiajun, et al. "Learning a probabilistic latent space of object shapes via 3d generative-adversarial modeling." Proceedings of the 30th International Conference on Neural Information Processing Systems. 2016.
 - Achlioptas, Panos, et al. "Learning representations and generative models for 3d point clouds." International conference on machine learning. PMLR, 2018.
 - Yang, Yaoqing, et al. "Foldingnet: Point cloud auto-encoder via deep grid deformation." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018.
-- Deng, Haowen, Tolga Birdal, and Slobodan Ilic. "Ppf-foldnet: Unsupervised learning of rotation invariant 3d local descriptors." Proceedings of the European Conference on Computer Vision (ECCV). 2018.
 - Rao, Yongming, Jiwen Lu, and Jie Zhou. "Global-local bidirectional reasoning for unsupervised representation learning of 3d point clouds." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020.
 
 ## Registration Methods
+- Zeng A, Song S, Nießner M, et al. 3dmatch: Learning local geometric descriptors from rgb-d reconstructions[C]//Proceedings of the IEEE conference on computer vision and pattern recognition. 2017: 1802-1811.
+- Khoury M, Zhou Q Y, Koltun V. Learning compact geometric features[C]//Proceedings of the IEEE international conference on computer vision. 2017: 153-161.
 - Deng, Haowen, Tolga Birdal, and Slobodan Ilic. "Ppfnet: Global context aware local features for robust 3d point matching." Proceedings of the IEEE conference on computer vision and pattern recognition. 2018.
 - Deng, Haowen, Tolga Birdal, and Slobodan Ilic. "Ppf-foldnet: Unsupervised learning of rotation invariant 3d local descriptors." Proceedings of the European Conference on Computer Vision (ECCV). 2018.
 - Xie, Saining, et al. "Pointcontrast: Unsupervised pre-training for 3d point cloud understanding." European Conference on Computer Vision. Springer, Cham, 2020.
