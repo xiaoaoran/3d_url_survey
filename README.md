@@ -34,6 +34,8 @@
 - Khoury M, Zhou Q Y, Koltun V. Learning compact geometric features[C]//Proceedings of the IEEE international conference on computer vision. 2017: 153-161.
 - Deng, Haowen, Tolga Birdal, and Slobodan Ilic. "Ppfnet: Global context aware local features for robust 3d point matching." Proceedings of the IEEE conference on computer vision and pattern recognition. 2018.
 - Deng, Haowen, Tolga Birdal, and Slobodan Ilic. "Ppf-foldnet: Unsupervised learning of rotation invariant 3d local descriptors." Proceedings of the European Conference on Computer Vision (ECCV). 2018.
+- Aoki, Yasuhiro, et al. "Pointnetlk: Robust & efficient point cloud registration using pointnet." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2019.
+- Wang, Yue, and Justin M. Solomon. "Deep closest point: Learning representations for point cloud registration." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2019.
 - Wang Y, Solomon J M. Prnet: Self-supervised learning for partial-to-partial registration[J]. NIPS, 2019.
 - Thabet A, Alwassel H, Ghanem B. Self-supervised learning of local features in 3d point clouds[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops. 2020: 938-939. (workshop)
 - Xie, Saining, et al. "Pointcontrast: Unsupervised pre-training for 3d point cloud understanding." European Conference on Computer Vision. Springer, Cham, 2020.
