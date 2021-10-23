@@ -40,6 +40,7 @@
 - Thabet A, Alwassel H, Ghanem B. Self-supervised learning of local features in 3d point clouds[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops. 2020: 938-939. (workshop)
 - Xie, Saining, et al. "Pointcontrast: Unsupervised pre-training for 3d point cloud understanding." European Conference on Computer Vision. Springer, Cham, 2020.
 - El Banani M, Gao L, Johnson J. Unsupervisedr&r: Unsupervised point cloud registration via differentiable rendering[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2021: 7129-7139.
+- Wu B, Ma J, Chen G, et al. Feature Interactive Representation for Point Cloud Registration[C]//Proceedings of the IEEE/CVF International Conference on Computer Vision. 2021: 5530-5539.
 
 ## Contrastive Methods
 - Xie S, Gu J, Guo D, et al. Pointcontrast: Unsupervised pre-training for 3d point cloud understanding[C]//European Conference on Computer Vision. Springer, Cham, 2020: 574-591.
