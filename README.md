@@ -22,6 +22,7 @@
 - Eckart B, Yuan W, Liu C, et al. Self-Supervised Learning on 3D Point Clouds by Learning Discrete Generative Models[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2021: 8248-8257.
 - Wang H, Yang L, Rong X, et al. Self-supervised 4D Spatio-temporal Feature Learning via Order Prediction of Sequential Point Cloud Clips[C]//Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision. 2021: 3762-3771.
 - Huang S, Xie Y, Zhu S C, et al. Spatio-temporal Self-Supervised Representation Learning for 3D Point Clouds[J]. ICCV, 2021.
+- Yang J, Ahn P, Kim D, et al. Progressive Seed Generation Auto-Encoder for Unsupervised Point Cloud Learning[C]//Proceedings of the IEEE/CVF International Conference on Computer Vision. 2021: 6413-6422.
 ### Journal Papers
 - Wang H, Liu Q, Yue X, et al. Pre-training by completing point clouds[J]. 2020. (openreview)
 - Sun, Chao, Zhedong Zheng, and Yi Yang. "Point Cloud Pre-training by Mixing and Disentangling." arXiv preprint arXiv:2109.00452 (2021). [mix and disentangle]
