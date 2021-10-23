@@ -29,6 +29,7 @@
 - Liu F, Lin G, Foo C S. Point Discriminative Learning for Unsupervised Representation Learning on 3D Point Clouds[J]. arXiv preprint arXiv:2108.02104, 2021.
 - Zhang J, Hu X, Dai H. Unsupervised Learning of ALS Point Clouds for 3-D Terrain Scene Clustering[J]. IEEE Geoscience and Remote Sensing Letters, 2021. (遥感)
 - Wang X, Ang M H, Lee G. Cascaded Refinement Network for Point Cloud Completion with Self-supervision[J]. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021.
+- Chen Y, Liu J, Ni B, et al. Shape Self-Correction for Unsupervised Point Cloud Understanding[C]//Proceedings of the IEEE/CVF International Conference on Computer Vision. 2021: 8382-8391.
 
 ## Registration Methods
 - Zeng A, Song S, Nießner M, et al. 3dmatch: Learning local geometric descriptors from rgb-d reconstructions[C]//Proceedings of the IEEE conference on computer vision and pattern recognition. 2017: 1802-1811.
