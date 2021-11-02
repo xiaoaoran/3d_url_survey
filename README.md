@@ -16,6 +16,7 @@
 - Yang G, Huang X, Hao Z, et al. Pointflow: 3d point cloud generation with continuous normalizing flows[C]//Proceedings of the IEEE/CVF International Conference on Computer Vision. 2019: 4541-4550.
 - Han Z, Shang M, Liu Y S, et al. View Inter-Prediction GAN: Unsupervised representation learning for 3D shapes by learning global shape memories to support local view predictions[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2019, 33(01): 8376-8384.
 - Sauder J, Sievers B. Self-supervised deep learning on point clouds by reconstructing space[J]. arXiv preprint arXiv:1901.08396, 2019. (Jigsaw3D)
+- Chen S, Duan C, Yang Y, et al. Deep unsupervised learning of 3D point clouds via graph topology inference and filtering[J]. IEEE Transactions on Image Processing, 2019, 29: 3183-3198.
 - Rao, Yongming, Jiwen Lu, and Jie Zhou. "Global-local bidirectional reasoning for unsupervised representation learning of 3d point clouds." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020.
 - Sun Y, Wang Y, Liu Z, et al. Pointgrow: Autoregressively learned point cloud generation with self-attention[C]//Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision. 2020: 61-70.
 - Poursaeed O, Jiang T, Qiao H, et al. Self-Supervised Learning of Point Clouds via Orientation Estimation[C]//2020 International Conference on 3D Vision (3DV). IEEE, 2020: 1018-1028. (Rotation3D)
