@@ -4,6 +4,17 @@
 - Generative Methods
 - Registration Methods
 ## Datasets
+## Features
+Desired Properties of Latent Representations
+1) Compact
+- Low-dimensional, or sparse  
+- Distributed (1 latent dimension related to many output instances)
+2) Invariant
+- Unaffected by factors we don’t care about, e.g. noise, variations
+to ignore
+3) Disentangled
+- Relevant factors of variation are separated into different
+subspaces / dimensions
 ## Generative Methods
 可能的问题：
 - Use point-wise loss – no structural loss incorporated?
