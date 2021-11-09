@@ -5,6 +5,10 @@
 - Registration Methods
 ## Datasets
 ## Generative Methods
+可能的问题：
+- Use point-wise loss – no structural loss incorporated?
+- Reconstruction can hardly represent semantic information?
+- 目前还未被证明can be transferred to other tasks?
 ### Conference Papers
 - Girdhar, Rohit, et al. "Learning a predictable and generative vector representation for objects." European Conference on Computer Vision. Springer, Cham, 2016.
 - Sharma, Abhishek, Oliver Grau, and Mario Fritz. "Vconv-dae: Deep volumetric shape learning without object labels." European Conference on Computer Vision. Springer, Cham, 2016.
