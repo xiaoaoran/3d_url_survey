@@ -6,6 +6,6 @@
 
    - [评价] Pretrain on Shapenet; Linear SVM on ModelNet40
 2. Vconv-dae: Deep volumetric shape learning without object labels. **[Context|Completion]**
-   - [要点] Given shapes with different poses, to learn the shape distributions of various classes by predicting the missing voxels from the rest.
-   - 第一个提出非监督学习3D特征的工作(concurrent)；24x24x24的Volumetric Grid，部分点设置为0，output要预测
+   - [要点] Given shapes with different poses, to learn the shape distributions of various classes by **predicting the missing voxels from the rest**.
+   - 第一个提出非监督学习3D特征的工作(concurrent)；24x24x24的Volumetric Grid，部分点设置为0，**auto encoder** output要预测
    - [评价] Pretrain on ModelNet; Linear SVM on ModelNet40
