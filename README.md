@@ -21,4 +21,7 @@ This is the official repository of **Unsupervised Representation Learning for Po
 ## Generation-based Methods
 1. VConv-DAE: Deep Volumetric Shape Learning Without Object Labels. ECCV 2016. [[PDF](https://arxiv.org/abs/1604.03755)]; [[Reproduced code #1](https://github.com/Not-IITian/VCONV-DAE)]; [[Reproduced code #2](https://github.com/diskhkme/VCONV_DAE_TF)]
 2. Learning a Predictable and Generative Vector Representation for Objects. ECCV 2016. [[PDF](https://arxiv.org/pdf/1603.08637v2.pdf)]
-3. Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling. NIPS2016. [[PDF](https://arxiv.org/pdf/1610.07584v2.pdf)]; [[code](https://github.com/zck119/3dgan-release)]
+3. Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling. NIPS2016. [[PDF](https://arxiv.org/pdf/1610.07584v2.pdf)]; [[Torch 7](https://github.com/zck119/3dgan-release)]
+4. Learning Descriptor Networks for 3D Shape Synthesis and Analysis. CVPR 2018. [[PDF](https://openaccess.thecvf.com/content_cvpr_2018/papers/Xie_Learning_Descriptor_Networks_CVPR_2018_paper.pdf)] [[Tensorflow](https://github.com/jianwen-xie/3DDescriptorNet)]
+5. FoldingNet: Point Cloud Auto-Encoder via Deep Grid Deformation. CVPR 2018. [[PDF](https://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_FoldingNet_Point_Cloud_CVPR_2018_paper.pdf)] [[Project Page](https://www.merl.com/research/license/FoldingNet)]
+6. SO-Net: Self-Organizing Network for Point Cloud Analysis. CVPR 2018. [[PDF](https://openaccess.thecvf.com/content_cvpr_2018/papers/Li_SO-Net_Self-Organizing_Network_CVPR_2018_paper.pdf)] [[Pytorch]( https://github.com/lijx10/SO-Net)]
