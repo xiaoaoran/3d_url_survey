@@ -6,9 +6,11 @@ This is the official repository of **Unsupervised Representation Learning for Po
  
 
 ## Menu
-- Datasets
-- Generation-based Methods
-- Context-based Methods
+- [Datasets](#datasets)
+- [Generation-based Methods](#generation-based-methods)
+- [Context-based Methods](#context-based-methods)
+- [Multiple modal-based methods](#multiple-modal-based-methods)
+- [Local descriptor-based methods](#local-descriptor-based-methods)
 ## Datasets
 1. KITTI [[Paper](https://projet.liris.cnrs.fr/imagine/pub/proceedings/CVPR2012/data/papers/424_O3C-04.pdf)] [[Project Page](http://www.cvlibs.net/datasets/kitti/)]
 2. ModelNet [[Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Wu_3D_ShapeNets_A_2015_CVPR_paper.pdf)] [[Project Page](https://modelnet.cs.princeton.edu/)]
@@ -65,3 +67,10 @@ This is the official repository of **Unsupervised Representation Learning for Po
 19. Pri3D: Can 3D Priors Help 2D Representation Learning?. ICCV 2021. [[PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Hou_Pri3D_Can_3D_Priors_Help_2D_Representation_Learning_ICCV_2021_paper.pdf)] [[Pytorch](https://github.com/Sekunde/Pri3D)]
 20. Exploring Geometry-Aware Contrast and Clustering Harmonization for Self-Supervised 3D Object Detection. ICCV 2021. [[PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Liang_Exploring_Geometry-Aware_Contrast_and_Clustering_Harmonization_for_Self-Supervised_3D_Object_ICCV_2021_paper.pdf)]
 21. 4DContrast: Contrastive Learning with Dynamic Correspondences for 3D Scene Understanding. arXiv 2022. [[PDF](https://arxiv.org/pdf/2112.02990.pdf)] [[Project](http://www.niessnerlab.org/projects/chen2021_4dcontrast.html)]
+## Multiple modal-based methods
+1. Self-supervised feature learning by cross-modality and cross-view correspondences. CVPRW 2021. [[PDF](https://openaccess.thecvf.com/content/CVPR2021W/MULA/papers/Jing_Self-Supervised_Feature_Learning_by_Cross-Modality_and_Cross-View_Correspondences_CVPRW_2021_paper.pdf)]
+## Local descriptor-based methods
+1. Ppf-foldnet: Unsupervised learning of rotation invariant 3d local descriptors. ECCV 2018. [[PDF](https://openaccess.thecvf.com/content_ECCV_2018/papers/Tolga_Birdal_PPF-FoldNet_Unsupervised_Learning_ECCV_2018_paper.pdf)] [[Pytorch](https://github.com/XuyangBai/PPF-FoldNet)]
+2. Corrnet3d: unsupervised end-to-end learning of dense correspondence for 3d point clouds. CVPR 2021. [[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Zeng_CorrNet3D_Unsupervised_End-to-End_Learning_of_Dense_Correspondence_for_3D_Point_CVPR_2021_paper.pdf)] [[Pytorch](https://github.com/ZENGYIMING-EAMON/CorrNet3D)]
+3. Dpc: Unsupervised deep point correspondence via cross and self construction. 3DV 2021. [[PDF](https://arxiv.org/pdf/2110.08636.pdf)] [[Pytorch](https://github.com/dvirginz/dpc)]
+4. Sampling network guided cross-entropy method for unsupervised point cloud registration. ICCV 2021. [[PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Jiang_Sampling_Network_Guided_Cross-Entropy_Method_for_Unsupervised_Point_Cloud_Registration_ICCV_2021_paper.pdf)] [[Pytorch](https://github.com/jiang-hb/cemnet)]
