@@ -1,9 +1,6 @@
-This is the official repository of **Unsupervised Representation Learning for Point Clouds: A Survey**, a comprehensive survey of recent progress in deep learning methods for unsupervised point clouds learning. For details, please refer to:
+This is the repository of **Unsupervised Representation Learning for Point Clouds: A Survey**, a comprehensive survey of recent progress in deep learning methods for unsupervised point clouds learning. For details, please refer to:
 
- **Unsupervised Representation Learning for Point Clouds: A Survey**
- 
- [[Paper]()]
- 
+ **Unsupervised Representation Learning for Point Clouds: A Survey**  [[Paper]()] 
 
 ## Menu
 - [Datasets](#datasets)
