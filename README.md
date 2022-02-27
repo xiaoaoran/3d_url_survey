@@ -71,3 +71,6 @@ This is the repository of **Unsupervised Representation Learning for Point Cloud
 2. Corrnet3d: unsupervised end-to-end learning of dense correspondence for 3d point clouds. CVPR 2021. [[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Zeng_CorrNet3D_Unsupervised_End-to-End_Learning_of_Dense_Correspondence_for_3D_Point_CVPR_2021_paper.pdf)] [[Pytorch](https://github.com/ZENGYIMING-EAMON/CorrNet3D)]
 3. Dpc: Unsupervised deep point correspondence via cross and self construction. 3DV 2021. [[PDF](https://arxiv.org/pdf/2110.08636.pdf)] [[Pytorch](https://github.com/dvirginz/dpc)]
 4. Sampling network guided cross-entropy method for unsupervised point cloud registration. ICCV 2021. [[PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Jiang_Sampling_Network_Guided_Cross-Entropy_Method_for_Unsupervised_Point_Cloud_Registration_ICCV_2021_paper.pdf)] [[Pytorch](https://github.com/jiang-hb/cemnet)]
+## Related Repos
+- [SynLiDAR: Learning From Synthetic LiDAR Sequential Point Cloud for Semantic Segmentation](https://github.com/xiaoaoran/SynLiDAR)
+- [FPS-Net: A convolutional fusion network for large-scale LiDAR point cloud segmentation](https://github.com/xiaoaoran/FPS-Net)
