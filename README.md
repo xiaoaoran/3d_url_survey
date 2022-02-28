@@ -2,6 +2,20 @@ This is the repository of **Unsupervised Representation Learning for Point Cloud
 
  **Unsupervised Representation Learning for Point Clouds: A Survey**  [[Paper]()] 
 
+## Abstract
+Point cloud data have been widely explored due to its superior accuracy and robustness under various adverse situations.
+Meanwhile, deep neural networks (DNNs) have achieved very impressive success in various applications such as surveillance and
+autonomous driving. The convergence of point cloud and DNNs has led to many deep point cloud models, largely trained under the
+supervision of large-scale and densely-labelled point cloud data. Unsupervised point cloud representation learning, which aims to learn
+general and useful point cloud representations from unlabelled point cloud data, has recently attracted increasing attention due to the
+constraint in large-scale point cloud labelling. This paper provides a comprehensive review of unsupervised point cloud representation
+learning using DNNs. It first describes the motivation, general pipelines as well as terminologies of the recent studies. Relevant
+background including widely adopted point cloud datasets and DNN architectures is then briefly presented. This is followed by an
+extensive discussion of existing unsupervised point cloud representation learning methods according to their technical approaches. We
+also quantitatively benchmark and discuss the reviewed methods over multiple widely adopted point cloud datasets. Finally, we share
+our humble opinion about several challenges and problems that could be pursued in the future research in unsupervised point cloud
+representation learning.
+
 ## Menu
 - [Datasets](#datasets)
 - [Generation-based Methods](#generation-based-methods)
