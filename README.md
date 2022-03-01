@@ -1,6 +1,6 @@
 This is the repository of **Unsupervised Representation Learning for Point Clouds: A Survey**, a comprehensive survey of recent progress in deep learning methods for unsupervised point clouds learning. For details, please refer to:
 
- **Unsupervised Representation Learning for Point Clouds: A Survey**  [[Paper]()] 
+ **Unsupervised Representation Learning for Point Clouds: A Survey**  [[Paper](https://arxiv.org/abs/2202.13589)] [![arXiv](https://img.shields.io/badge/arXiv-2107.05399-b31b1b.svg)](https://arxiv.org/abs/2202.13589)
 
 ## Abstract
 Point cloud data have been widely explored due to its superior accuracy and robustness under various adverse situations.
