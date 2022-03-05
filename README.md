@@ -16,6 +16,17 @@ also quantitatively benchmark and discuss the reviewed methods over multiple wid
 our humble opinion about several challenges and problems that could be pursued in the future research in unsupervised point cloud
 representation learning.
 
+# Citation
+If you find our work useful in your research, please consider citing:
+```
+@article{xiao2022unsupervised,
+  title={Unsupervised Representation Learning for Point Clouds: A Survey},
+  author={Xiao, Aoran and Huang, Jiaxing and Guan, Dayan and Lu, Shijian},
+  journal={arXiv preprint arXiv:2202.13589},
+  year={2022}
+}
+```
+
 ## Menu
 - [Datasets](#datasets)
 - [Generation-based Methods](#generation-based-methods)
