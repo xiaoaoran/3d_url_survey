@@ -90,6 +90,7 @@ If you find our work useful in your research, please consider citing:
 20. Exploring Geometry-Aware Contrast and Clustering Harmonization for Self-Supervised 3D Object Detection. ICCV 2021. [[PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Liang_Exploring_Geometry-Aware_Contrast_and_Clustering_Harmonization_for_Self-Supervised_3D_Object_ICCV_2021_paper.pdf)]
 21. 4DContrast: Contrastive Learning with Dynamic Correspondences for 3D Scene Understanding. arXiv 2022. [[PDF](https://arxiv.org/pdf/2112.02990.pdf)] [[Project](http://www.niessnerlab.org/projects/chen2021_4dcontrast.html)]
 22. Point-BERT: Pre-Training 3D Point Cloud Transformers with Masked Point Modeling. CVPR2022. [[PDF](https://arxiv.org/abs/2111.14819)] [[Project](https://point-bert.ivg-research.xyz/)]
+23. CrossPoint: Self-Supervised Cross-Modal Contrastive Learning for 3D Point Cloud Understanding. CVPR2022. [[PDF](https://arxiv.org/pdf/2203.00680.pdf)]
 ## Multiple modal-based methods
 1. Self-supervised feature learning by cross-modality and cross-view correspondences. CVPRW 2021. [[PDF](https://openaccess.thecvf.com/content/CVPR2021W/MULA/papers/Jing_Self-Supervised_Feature_Learning_by_Cross-Modality_and_Cross-View_Correspondences_CVPRW_2021_paper.pdf)]
 ## Local descriptor-based methods
