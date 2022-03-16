@@ -91,6 +91,7 @@ If you find our work useful in your research, please consider citing:
 21. 4DContrast: Contrastive Learning with Dynamic Correspondences for 3D Scene Understanding. arXiv 2022. [[PDF](https://arxiv.org/pdf/2112.02990.pdf)] [[Project](http://www.niessnerlab.org/projects/chen2021_4dcontrast.html)]
 22. Point-BERT: Pre-Training 3D Point Cloud Transformers with Masked Point Modeling. CVPR2022. [[PDF](https://arxiv.org/abs/2111.14819)] [[Project](https://point-bert.ivg-research.xyz/)]
 23. CrossPoint: Self-Supervised Cross-Modal Contrastive Learning for 3D Point Cloud Understanding. CVPR2022. [[PDF](https://arxiv.org/pdf/2203.00680.pdf)] [[Pytorch](https://github.com/MohamedAfham/CrossPoint)]
+24. Masked Autoencoders for Point Cloud Self-supervised Learning. arXiv. [[PDF](https://arxiv.org/abs/2203.06604)] [[Pytorch](https://github.com/Pang-Yatian/Point-MAE)]
 ## Multiple modal-based methods
 1. Self-supervised feature learning by cross-modality and cross-view correspondences. CVPRW 2021. [[PDF](https://openaccess.thecvf.com/content/CVPR2021W/MULA/papers/Jing_Self-Supervised_Feature_Learning_by_Cross-Modality_and_Cross-View_Correspondences_CVPRW_2021_paper.pdf)]
 ## Local descriptor-based methods
