@@ -1,6 +1,15 @@
 This is the repository of **Unsupervised Representation Learning for Point Clouds: A Survey**, a comprehensive survey of recent progress in deep learning methods for unsupervised point clouds learning. For details, please refer to:
 
- **Unsupervised Representation Learning for Point Clouds: A Survey**  [[Paper](https://arxiv.org/abs/2202.13589)] [![arXiv](https://img.shields.io/badge/arXiv-2202.13589-b31b1b.svg)](https://arxiv.org/abs/2202.13589)
+ **Unsupervised Representation Learning for Point Clouds: A Survey**  
+ [[Paper](https://arxiv.org/abs/2202.13589)] 
+ 
+ [![arXiv](https://img.shields.io/badge/arXiv-2202.13589-b31b1b.svg)](https://arxiv.org/abs/2202.13589)
+ [![Survey](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) 
+[![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
+[![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+<!-- [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org) -->
+<!-- [![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest) -->
 
 ## Abstract
 Point cloud data have been widely explored due to its superior accuracy and robustness under various adverse situations.
