@@ -75,7 +75,8 @@ If you find our work useful in your research, please consider citing:
 21. Self-Supervised Learning on 3D Point Clouds by Learning Discrete Generative Models. CVPR 2021. [[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Eckart_Self-Supervised_Learning_on_3D_Point_Clouds_by_Learning_Discrete_Generative_CVPR_2021_paper.pdf)] 
 22. Progressive Seed Generation Auto-Encoder for Unsupervised Point Cloud Learning. ICCV 2021. [[DPF](https://openaccess.thecvf.com/content/ICCV2021/papers/Yang_Progressive_Seed_Generation_Auto-Encoder_for_Unsupervised_Point_Cloud_Learning_ICCV_2021_paper.pdf)]
 23. Unsupervised Learning of Geometric Sampling Invariant Representations for 3D Point Clouds. ICCVW 2021. [[PDF](https://openaccess.thecvf.com/content/ICCV2021W/GSP-CV/papers/Chen_Unsupervised_Learning_of_Geometric_Sampling_Invariant_Representations_for_3D_Point_ICCVW_2021_paper.pdf)] 
-24. Masked Autoencoders for Point Cloud Self-supervised Learning. arXiv. [[PDF](https://arxiv.org/abs/2203.06604)] [[Pytorch](https://github.com/Pang-Yatian/Point-MAE)]
+24. Point-BERT: Pre-Training 3D Point Cloud Transformers with Masked Point Modeling. CVPR2022. [[PDF](https://arxiv.org/abs/2111.14819)] [[Project](https://point-bert.ivg-research.xyz/)]
+25. Masked Autoencoders for Point Cloud Self-supervised Learning. arXiv. [[PDF](https://arxiv.org/abs/2203.06604)] [[Pytorch](https://github.com/Pang-Yatian/Point-MAE)]
 
 ## Context-based methods
 1. Unsupervised Multi-Task Feature Learning on Point Clouds. ICCV 2019. [[PDF](https://openaccess.thecvf.com/content_ICCV_2019/papers/Hassani_Unsupervised_Multi-Task_Feature_Learning_on_Point_Clouds_ICCV_2019_paper.pdf)] 
@@ -99,7 +100,6 @@ If you find our work useful in your research, please consider citing:
 19. Pri3D: Can 3D Priors Help 2D Representation Learning?. ICCV 2021. [[PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Hou_Pri3D_Can_3D_Priors_Help_2D_Representation_Learning_ICCV_2021_paper.pdf)] [[Pytorch](https://github.com/Sekunde/Pri3D)]
 20. Exploring Geometry-Aware Contrast and Clustering Harmonization for Self-Supervised 3D Object Detection. ICCV 2021. [[PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Liang_Exploring_Geometry-Aware_Contrast_and_Clustering_Harmonization_for_Self-Supervised_3D_Object_ICCV_2021_paper.pdf)]
 21. 4DContrast: Contrastive Learning with Dynamic Correspondences for 3D Scene Understanding. arXiv 2022. [[PDF](https://arxiv.org/pdf/2112.02990.pdf)] [[Project](http://www.niessnerlab.org/projects/chen2021_4dcontrast.html)]
-22. Point-BERT: Pre-Training 3D Point Cloud Transformers with Masked Point Modeling. CVPR2022. [[PDF](https://arxiv.org/abs/2111.14819)] [[Project](https://point-bert.ivg-research.xyz/)]
 23. CrossPoint: Self-Supervised Cross-Modal Contrastive Learning for 3D Point Cloud Understanding. CVPR2022. [[PDF](https://arxiv.org/pdf/2203.00680.pdf)] [[Pytorch](https://github.com/MohamedAfham/CrossPoint)]
 ## Multiple modal-based methods
 1. Self-supervised feature learning by cross-modality and cross-view correspondences. CVPRW 2021. [[PDF](https://openaccess.thecvf.com/content/CVPR2021W/MULA/papers/Jing_Self-Supervised_Feature_Learning_by_Cross-Modality_and_Cross-View_Correspondences_CVPRW_2021_paper.pdf)]
