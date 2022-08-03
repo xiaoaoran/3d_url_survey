@@ -77,8 +77,8 @@ If you find our work useful in your research, please consider citing:
 23. Unsupervised Learning of Geometric Sampling Invariant Representations for 3D Point Clouds. ICCVW 2021. [[PDF](https://openaccess.thecvf.com/content/ICCV2021W/GSP-CV/papers/Chen_Unsupervised_Learning_of_Geometric_Sampling_Invariant_Representations_for_3D_Point_ICCVW_2021_paper.pdf)] 
 24. Point-BERT: Pre-Training 3D Point Cloud Transformers with Masked Point Modeling. CVPR2022. [[PDF](https://arxiv.org/abs/2111.14819)] [[Project](https://point-bert.ivg-research.xyz/)]
 25. Point Cloud Pre-training with Natural 3D Structures. CVPR2022. [[PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Yamada_Point_Cloud_Pre-Training_With_Natural_3D_Structures_CVPR_2022_paper.pdf)]
-26. Masked Autoencoders for Point Cloud Self-supervised Learning. arXiv. [[PDF](https://arxiv.org/abs/2203.06604)] [[Pytorch](https://github.com/Pang-Yatian/Point-MAE)]
-27. Masked Discrimination for Self-Supervised Learning on Point Clouds arXiv. [[PDF](https://arxiv.org/pdf/2203.11183.pdf)] [[Project](https://github.com/haotian-liu/MaskPoint)]
+26. Masked Autoencoders for Point Cloud Self-supervised Learning. ECCV2022. [[PDF](https://arxiv.org/abs/2203.06604)] [[Pytorch](https://github.com/Pang-Yatian/Point-MAE)]
+27. Masked Discrimination for Self-Supervised Learning on Point Clouds. ECCV2022. [[PDF](https://arxiv.org/pdf/2203.11183.pdf)] [[Project](https://github.com/haotian-liu/MaskPoint)]
 
 ## Context-based methods
 1. Unsupervised Multi-Task Feature Learning on Point Clouds. ICCV 2019. [[PDF](https://openaccess.thecvf.com/content_ICCV_2019/papers/Hassani_Unsupervised_Multi-Task_Feature_Learning_on_Point_Clouds_ICCV_2019_paper.pdf)] 
