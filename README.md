@@ -103,9 +103,9 @@ If you find our work useful in your research, please consider citing:
 19. Pri3D: Can 3D Priors Help 2D Representation Learning?. ICCV 2021. [[PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Hou_Pri3D_Can_3D_Priors_Help_2D_Representation_Learning_ICCV_2021_paper.pdf)] [[Pytorch](https://github.com/Sekunde/Pri3D)]
 20. Exploring Geometry-Aware Contrast and Clustering Harmonization for Self-Supervised 3D Object Detection. ICCV 2021. [[PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Liang_Exploring_Geometry-Aware_Contrast_and_Clustering_Harmonization_for_Self-Supervised_3D_Object_ICCV_2021_paper.pdf)]
 21. 4DContrast: Contrastive Learning with Dynamic Correspondences for 3D Scene Understanding. ECCV 2022. [[PDF](https://arxiv.org/pdf/2112.02990.pdf)] [[Project](http://www.niessnerlab.org/projects/chen2021_4dcontrast.html)]
-22. A Closer Look at Invariances in Self-supervised Pre-training for 3D Vision. ECCV 2022. [[PDF](https://arxiv.org/pdf/2207.04997.pdf)]
+22. A Closer Look at Invariances in Self-supervised Pre-training for 3D Vision. ECCV 2022. [[PDF](https://arxiv.org/pdf/2207.04997.pdf)] [[PyTorch](https://github.com/lilanxiao/Invar3D)]
 23. ProposalContrast: Unsupervised Pre-training for LiDAR-based 3D Object Detection. ECCV2022. [[PDF](https://arxiv.org/pdf/2207.12654.pdf)] [[Project](https://github.com/yinjunbo/ProposalContrast)]
-24. OGC: Unsupervised 3D Object Segmentation from Rigid Dynamics of Point Clouds. NeurIPS2022. [[PDF]()] [[Pytorch](https://github.com/vLAR-group/OGChttps://arxiv.org/pdf/2210.04458.pdf)]
+24. OGC: Unsupervised 3D Object Segmentation from Rigid Dynamics of Point Clouds. NeurIPS2022. [[PDF](https://arxiv.org/pdf/2210.04458)] [[Pytorch](https://github.com/vLAR-group/OGChttps://arxiv.org/pdf/2210.04458.pdf)]
 ## Multiple modal-based methods
 1. Self-supervised feature learning by cross-modality and cross-view correspondences. CVPRW 2021. [[PDF](https://openaccess.thecvf.com/content/CVPR2021W/MULA/papers/Jing_Self-Supervised_Feature_Learning_by_Cross-Modality_and_Cross-View_Correspondences_CVPRW_2021_paper.pdf)]
 2. CrossPoint: Self-Supervised Cross-Modal Contrastive Learning for 3D Point Cloud Understanding. CVPR2022. [[PDF](https://arxiv.org/pdf/2203.00680.pdf)] [[Pytorch](https://github.com/MohamedAfham/CrossPoint)]
@@ -114,6 +114,3 @@ If you find our work useful in your research, please consider citing:
 2. Corrnet3d: unsupervised end-to-end learning of dense correspondence for 3d point clouds. CVPR 2021. [[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Zeng_CorrNet3D_Unsupervised_End-to-End_Learning_of_Dense_Correspondence_for_3D_Point_CVPR_2021_paper.pdf)] [[Pytorch](https://github.com/ZENGYIMING-EAMON/CorrNet3D)]
 3. Dpc: Unsupervised deep point correspondence via cross and self construction. 3DV 2021. [[PDF](https://arxiv.org/pdf/2110.08636.pdf)] [[Pytorch](https://github.com/dvirginz/dpc)]
 4. Sampling network guided cross-entropy method for unsupervised point cloud registration. ICCV 2021. [[PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Jiang_Sampling_Network_Guided_Cross-Entropy_Method_for_Unsupervised_Point_Cloud_Registration_ICCV_2021_paper.pdf)] [[Pytorch](https://github.com/jiang-hb/cemnet)]
-## Related Repos
-- [SynLiDAR: Learning From Synthetic LiDAR Sequential Point Cloud for Semantic Segmentation](https://github.com/xiaoaoran/SynLiDAR)
-- [FPS-Net: A convolutional fusion network for large-scale LiDAR point cloud segmentation](https://github.com/xiaoaoran/FPS-Net)
