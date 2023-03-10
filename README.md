@@ -109,6 +109,7 @@ If you find our work useful in your research, please consider citing:
 ## Multiple modal-based methods
 1. Self-supervised feature learning by cross-modality and cross-view correspondences. CVPRW 2021. [[PDF](https://openaccess.thecvf.com/content/CVPR2021W/MULA/papers/Jing_Self-Supervised_Feature_Learning_by_Cross-Modality_and_Cross-View_Correspondences_CVPRW_2021_paper.pdf)]
 2. CrossPoint: Self-Supervised Cross-Modal Contrastive Learning for 3D Point Cloud Understanding. CVPR2022. [[PDF](https://arxiv.org/pdf/2203.00680.pdf)] [[Pytorch](https://github.com/MohamedAfham/CrossPoint)]
+3. P2P: Tuning Pre-trained Image Models for Point Cloud Analysis with Point-to-Pixel Prompting. NeurIPS 2022. [[PDF](https://arxiv.org/pdf/2208.02812.pdf)] [[project](https://github.com/wangzy22/P2P)]
 ## Local descriptor-based methods
 1. Ppf-foldnet: Unsupervised learning of rotation invariant 3d local descriptors. ECCV 2018. [[PDF](https://openaccess.thecvf.com/content_ECCV_2018/papers/Tolga_Birdal_PPF-FoldNet_Unsupervised_Learning_ECCV_2018_paper.pdf)] [[Pytorch](https://github.com/XuyangBai/PPF-FoldNet)]
 2. Corrnet3d: unsupervised end-to-end learning of dense correspondence for 3d point clouds. CVPR 2021. [[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Zeng_CorrNet3D_Unsupervised_End-to-End_Learning_of_Dense_Correspondence_for_3D_Point_CVPR_2021_paper.pdf)] [[Pytorch](https://github.com/ZENGYIMING-EAMON/CorrNet3D)]
