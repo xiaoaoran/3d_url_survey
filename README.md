@@ -79,7 +79,6 @@ If you find our work useful in your research, please consider citing:
 25. Point-BERT: Pre-Training 3D Point Cloud Transformers with Masked Point Modeling. CVPR2022. [[PDF](https://arxiv.org/abs/2111.14819)] [[Project](https://point-bert.ivg-research.xyz/)]
 26. Point Cloud Pre-training with Natural 3D Structures. CVPR2022. [[PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Yamada_Point_Cloud_Pre-Training_With_Natural_3D_Structures_CVPR_2022_paper.pdf)]
 27. Masked Autoencoders for Point Cloud Self-supervised Learning. ECCV2022. [[PDF](https://arxiv.org/abs/2203.06604)] [[Pytorch](https://github.com/Pang-Yatian/Point-MAE)]
-28. Masked Discrimination for Self-Supervised Learning on Point Clouds. ECCV2022. [[PDF](https://arxiv.org/pdf/2203.11183.pdf)] [[Project](https://github.com/haotian-liu/MaskPoint)]
 
 ## Context-based methods
 1. Unsupervised Multi-Task Feature Learning on Point Clouds. ICCV 2019. [[PDF](https://openaccess.thecvf.com/content_ICCV_2019/papers/Hassani_Unsupervised_Multi-Task_Feature_Learning_on_Point_Clouds_ICCV_2019_paper.pdf)] 
@@ -105,7 +104,8 @@ If you find our work useful in your research, please consider citing:
 21. 4DContrast: Contrastive Learning with Dynamic Correspondences for 3D Scene Understanding. ECCV 2022. [[PDF](https://arxiv.org/pdf/2112.02990.pdf)] [[Project](http://www.niessnerlab.org/projects/chen2021_4dcontrast.html)]
 22. A Closer Look at Invariances in Self-supervised Pre-training for 3D Vision. ECCV 2022. [[PDF](https://arxiv.org/pdf/2207.04997.pdf)] [[PyTorch](https://github.com/lilanxiao/Invar3D)]
 23. ProposalContrast: Unsupervised Pre-training for LiDAR-based 3D Object Detection. ECCV2022. [[PDF](https://arxiv.org/pdf/2207.12654.pdf)] [[Project](https://github.com/yinjunbo/ProposalContrast)]
-24. OGC: Unsupervised 3D Object Segmentation from Rigid Dynamics of Point Clouds. NeurIPS2022. [[PDF](https://arxiv.org/pdf/2210.04458)] [[Pytorch](https://github.com/vLAR-group/OGChttps://arxiv.org/pdf/2210.04458.pdf)]
+24. Masked Discrimination for Self-Supervised Learning on Point Clouds. ECCV2022. [[PDF](https://arxiv.org/pdf/2203.11183.pdf)] [[Project](https://github.com/haotian-liu/MaskPoint)]
+25. OGC: Unsupervised 3D Object Segmentation from Rigid Dynamics of Point Clouds. NeurIPS2022. [[PDF](https://arxiv.org/pdf/2210.04458)] [[Pytorch](https://github.com/vLAR-group/OGChttps://arxiv.org/pdf/2210.04458.pdf)]
 ## Multiple modal-based methods
 1. Self-supervised feature learning by cross-modality and cross-view correspondences. CVPRW 2021. [[PDF](https://openaccess.thecvf.com/content/CVPR2021W/MULA/papers/Jing_Self-Supervised_Feature_Learning_by_Cross-Modality_and_Cross-View_Correspondences_CVPRW_2021_paper.pdf)]
 2. CrossPoint: Self-Supervised Cross-Modal Contrastive Learning for 3D Point Cloud Understanding. CVPR2022. [[PDF](https://arxiv.org/pdf/2203.00680.pdf)] [[Pytorch](https://github.com/MohamedAfham/CrossPoint)]
