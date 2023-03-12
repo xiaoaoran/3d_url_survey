@@ -79,6 +79,7 @@ If you find our work useful in your research, please consider citing:
 25. Point-BERT: Pre-Training 3D Point Cloud Transformers with Masked Point Modeling. CVPR2022. [[PDF](https://arxiv.org/abs/2111.14819)] [[Project](https://point-bert.ivg-research.xyz/)]
 26. Point Cloud Pre-training with Natural 3D Structures. CVPR2022. [[PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Yamada_Point_Cloud_Pre-Training_With_Natural_3D_Structures_CVPR_2022_paper.pdf)]
 27. Masked Autoencoders for Point Cloud Self-supervised Learning. ECCV2022. [[PDF](https://arxiv.org/abs/2203.06604)] [[Pytorch](https://github.com/Pang-Yatian/Point-MAE)]
+28. Point-M2AE: Multi-scale Masked Autoencoders for Hierarchical Point Cloud Pre-training. NeurIPS2022. [[PDF](https://arxiv.org/pdf/2205.14401.pdf)] [[pytorch](https://github.com/ZrrSkywalker/Point-M2AE)]
 
 ## Context-based methods
 1. Unsupervised Multi-Task Feature Learning on Point Clouds. ICCV 2019. [[PDF](https://openaccess.thecvf.com/content_ICCV_2019/papers/Hassani_Unsupervised_Multi-Task_Feature_Learning_on_Point_Clouds_ICCV_2019_paper.pdf)] 
