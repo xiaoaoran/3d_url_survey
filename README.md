@@ -1,4 +1,4 @@
-This is the repository of **Unsupervised Representation Learning for Point Clouds: A Survey**, a comprehensive survey of recent progress in deep learning methods for unsupervised point clouds learning. For details, please refer to:
+This is the repository of TPAMI 2023 **Unsupervised Point Cloud Representation Learning with Deep Neural Networks: A Survey**, a comprehensive survey of recent progress in deep learning methods for unsupervised point clouds learning. For details, please refer to:
 
  **Unsupervised Representation Learning for Point Clouds: A Survey**  
  [[Paper](https://arxiv.org/abs/2202.13589)] 
