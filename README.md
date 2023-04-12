@@ -108,6 +108,7 @@ If you find our work useful in your research, please consider citing:
 24. Masked Discrimination for Self-Supervised Learning on Point Clouds. ECCV2022. [[PDF](https://arxiv.org/pdf/2203.11183.pdf)] [[Project](https://github.com/haotian-liu/MaskPoint)]
 25. OGC: Unsupervised 3D Object Segmentation from Rigid Dynamics of Point Clouds. NeurIPS2022. [[PDF](https://arxiv.org/pdf/2210.04458)] [[Pytorch](https://github.com/vLAR-group/OGChttps://arxiv.org/pdf/2210.04458.pdf)]
 26. PointClustering: Unsupervised Point Cloud Pre-training using Transformation Invariance in Clustering. CVPR 2023.
+27. Complete-to-Partial 4D Distillation for Self-Supervised Point Cloud Sequence Representation Learning. CVPR 2023. [[PDF](https://arxiv.org/pdf/2212.05330.pdf)]
 ## Multiple modal-based methods
 1. Self-supervised feature learning by cross-modality and cross-view correspondences. CVPRW 2021. [[PDF](https://openaccess.thecvf.com/content/CVPR2021W/MULA/papers/Jing_Self-Supervised_Feature_Learning_by_Cross-Modality_and_Cross-View_Correspondences_CVPRW_2021_paper.pdf)]
 2. CrossPoint: Self-Supervised Cross-Modal Contrastive Learning for 3D Point Cloud Understanding. CVPR2022. [[PDF](https://arxiv.org/pdf/2203.00680.pdf)] [[Pytorch](https://github.com/MohamedAfham/CrossPoint)]
